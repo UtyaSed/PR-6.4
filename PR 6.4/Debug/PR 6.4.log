@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\University\Algoritmizaciya and programyvanya\PR 6.4\PR 6.4\Source.cpp(10,24): error C2678: binary '<<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+D:\University\Algoritmizaciya and programyvanya\PR 6.4\PR 6.4\Source.cpp(10,24): message : could be 'built-in C++ operator<<(int, int)'
+D:\University\Algoritmizaciya and programyvanya\PR 6.4\PR 6.4\Source.cpp(10,24): message : while trying to match the argument list '(std::istream, int)'
